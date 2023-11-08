@@ -72,7 +72,18 @@
                 <li class="nav-item">
                     <a class="nav-link" href="PageOne.aspx">Vet Submission</a>
                 </li>
-               
+                <li class="nav-item">
+                    <a class="nav-link" href="PageTwo.aspx">CSR</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="PageThree.aspx">Shipping Status</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="PageFour.aspx">Dispensing Department</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="PageSix.aspx">Medication Status</a>
+                </li>
             </ul>
         </nav>
     </header>
