@@ -10,7 +10,7 @@
                 <input type="text" class="form-control" id="petName" placeholder="Enter Pet Name">
             </div>
             <div class="form-group">
-                <label for="medication">Medication</label>
+                <label for="medication">Medication:</label>
                 <select class="form-control" id="medication">
                     <option>Select Medication</option>
                     <option>Medication 1</option>
